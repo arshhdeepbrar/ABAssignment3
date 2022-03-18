@@ -27,13 +27,11 @@ When you create a repository on GitHub.com, it exists as a remote repository. Yo
 Open the project in file explorer where you cloned the repository.
 Right-click the index.html file and open in any browser to view the site. 
 
-# License
+# Copyright and License
 
-This project is licensed under the MIT License attached under LICENSE.md file. It is a permissive license that allows the person to obtain a copy of the software 
+This project is licensed under the MIT License (the "License" file attached at the root). You may not use this software except in compliance with the License. 
+
+It is a permissive license that allows the person to obtain a copy of the software 
 with right to use under the condition to include the copyright notice in all the copies. 
 
-Permissions:
- Commercial use
- Modification
- Distribution
- Private use
+View the license to get more information about permissions and limitations under the License.
